@@ -59,7 +59,7 @@ Commands sent to the DBMS may return one of the following status codes;
 - **SYNTAXERROR (5)** : Returned whenever a command has an incorrect syntax. See the "Commands" section for detailed information on each command and its syntax. 
 
 ## Compiling
-You may use my custom build system to compile FeatherBase from source: https://github.com/Loravis/MiniMake
+todo
 
 ## Feedback & Contributions
 If you wish to provide any feedback, suggest changes or contribute to this project, you may feel free to contact me via discord (@loravis) or email (address is linked to my GitHub profile). Any feedback would be greatly appreciated 🙂. 
