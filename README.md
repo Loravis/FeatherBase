@@ -1,6 +1,6 @@
 # Featherbase
 
-This is a no-SQL Database Management System. I designed it to be relatively simple and lightweight while offering all the base functionality you'd expect from a DBMS. I haven't yet gotten to finish this project, which is why some features are missing, however the features that were implemented are fully functional. 
+This is a no-SQL DBMS I wrote a while ago when I was new to C/C++. Granted, it's not very good and probably poorly optimized. I plan to recreate this from scratch at some point. I no longer maintain this.
 
 ✅ **Implemented features:**
 - Create, manage and delete multiple databases
